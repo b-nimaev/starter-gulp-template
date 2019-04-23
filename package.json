@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap_template",
+  "version": "1.0.0",
+  "description": "nipex24_ bootstrap templates",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "ruby": "^0.6.1"
+  },
+  "devDependencies": {
+    "bower": "^1.8.4",
+    "gulp-imagemin": "^5.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
